@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/poke-api-react-search/static/css/main.1a9c960e.chunk.css",
+    "main.js": "/poke-api-react-search/static/js/main.1661c002.chunk.js",
+    "main.js.map": "/poke-api-react-search/static/js/main.1661c002.chunk.js.map",
+    "runtime-main.js": "/poke-api-react-search/static/js/runtime-main.ec1a6cfc.js",
+    "runtime-main.js.map": "/poke-api-react-search/static/js/runtime-main.ec1a6cfc.js.map",
+    "static/js/2.628b80f8.chunk.js": "/poke-api-react-search/static/js/2.628b80f8.chunk.js",
+    "static/js/2.628b80f8.chunk.js.map": "/poke-api-react-search/static/js/2.628b80f8.chunk.js.map",
+    "index.html": "/poke-api-react-search/index.html",
+    "precache-manifest.9c06aec2e02e35a19cbce216016b88c6.js": "/poke-api-react-search/precache-manifest.9c06aec2e02e35a19cbce216016b88c6.js",
+    "service-worker.js": "/poke-api-react-search/service-worker.js",
+    "static/css/main.1a9c960e.chunk.css.map": "/poke-api-react-search/static/css/main.1a9c960e.chunk.css.map",
+    "static/js/2.628b80f8.chunk.js.LICENSE.txt": "/poke-api-react-search/static/js/2.628b80f8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ec1a6cfc.js",
+    "static/js/2.628b80f8.chunk.js",
+    "static/css/main.1a9c960e.chunk.css",
+    "static/js/main.1661c002.chunk.js"
+  ]
+}
