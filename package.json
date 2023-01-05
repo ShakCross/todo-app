@@ -1,6 +1,6 @@
 {
   "name": "bertoni-test",
-  "homepage": "https://shakcross.github.io/poke-api-react-search",
+  "homepage": "https://shakcross.github.io/todo-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -35,6 +35,7 @@
     ]
   },
   "devDependencies": {
-    "bootstrap": "^4.5.0"
+    "bootstrap": "^4.5.0",
+    "gh-pages": "^4.0.0"
   }
 }
